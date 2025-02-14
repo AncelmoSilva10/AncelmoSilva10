@@ -1,6 +1,6 @@
 ### Olá, meu nome é Ancelmo! 👋
 
-Em 2023, tive o primeiro contato com a programação através da Etec de Guainazes, cursando Desenvolvimento de Sistemas.
+Em 2023, tive o primeiro contato com a programação através da Etec de Guaianazes, cursando Desenvolvimento de Sistemas.
 
 Algum tempo depois, decidi me aventurar um pouco mais nesse universo, estudando lógica com o bom e velho Portugol e, em seguida, avancei para Java.
 
