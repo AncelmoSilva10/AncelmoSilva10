@@ -18,6 +18,7 @@ Entre em contato comigo através do endereço de e-mail: ancelmo10.sousa@gmail.c
 ![Blog](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Blog](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Blog](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+https://camo.githubusercontent.com/839c2b7156d9a4e8f021ae6c539331e84ea18bf0fd0ee15835f0695a838b292e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c61726176656c2d4646324432303f7374796c653d666f722d7468652d6261646765266c6f676f3d6c61726176656c266c6f676f436f6c6f723d7768697465
 
 ## Github Stats
 ![AncelmoSilva10 github stats](https://github-readme-stats.vercel.app/api?username=AncelmoSilva10&show_icons=true&theme=radical)
