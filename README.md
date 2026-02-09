@@ -1,11 +1,12 @@
 <div align="center">
 
-  # 👋 Olá, meu nome é Ancelmo!
+# 👋 Olá, meu nome é Ancelmo!
 
-  🎓 Em 2023, tive meu primeiro contato com a programação através da **Etec de Guaianazes**, cursando **Desenvolvimento de Sistemas**.
-  🚀 Desde então, me aventurei cada vez mais nesse universo, começando pela lógica com **Portugol** e avançando para **Java**.
-  💻 Atualmente, desenvolvo projetos full-stack utilizando **JavaScript, Java, PHP e Python**.
+🎓 Em 2023, iniciei minha jornada em **Desenvolvimento de Sistemas** na **Etec de Guaianazes** e, atualmente, estou cursando **Ciência da Computação na SPTECH**.
 
+🚀 Desde o início, me aventurei cada vez mais nesse universo, começando pela lógica com **Portugol** e avançando para **Java**.
+
+💻 Hoje, desenvolvo projetos full-stack utilizando **JavaScript, Java, PHP e Python**.
   ---
 
   ## 🚀 Tech Stack
